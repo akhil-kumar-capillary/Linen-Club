@@ -1,0 +1,39 @@
+store_name,store_city,total_customers,total_bills,total_sales,gold_customers,gold_sales,gold_bills,platinum_customers,platinum_sales,platinum_bills,silver_customers,silver_sales,silver_bills,age,redeemed_points,redeemed_coupons
+110759_Thrissur_West Fort,Thrissur, 974 ," 1,307 "," 9,13,45,18,952 ", 192 ," 2,21,04,77,048 ", 248 , 213 ," 3,49,12,94,547 ", 410 , 568 ," 3,13,22,34,326 ", 615 , 49 ," 16,48,41,846 ", 642 
+111171_Ker_Trivandrum,Thiruvananthapuram," 1,336 "," 1,994 "," 15,11,66,12,536 ", 253 ," 3,35,63,98,160 ", 378 , 250 ," 6,44,45,78,463 ", 679 , 833 ," 5,31,56,35,914 ", 937 , 38 ," 34,22,57,650 ", 592 
+109112_Ker_Palakkad,Palakkad," 1,141 "," 1,540 "," 13,39,26,52,928 ", 215 ," 2,59,71,73,834 ", 285 , 300 ," 6,40,86,26,179 ", 547 , 625 ," 4,33,55,70,769 ", 699 , 54 ," 61,18,80,930 ", 582 
+109628_Ker_Angamaly,Angamaly," 1,197 "," 1,505 "," 12,55,12,66,504 ", 244 ," 3,02,32,96,318 ", 311 , 263 ," 5,10,57,83,102 ", 454 , 690 ," 4,42,21,87,084 ", 740 , 43 ," 36,11,86,700 ", 460 
+110798_Calicut_Cherooty Road,Calicut," 1,410 "," 1,957 "," 8,15,18,39,949 ", 258 ," 1,95,37,42,791 ", 383 , 246 ," 2,65,97,45,781 ", 491 , 905 ," 3,51,42,14,715 "," 1,074 ", 39 ," 35,55,34,443 ", 434 
+110992_Calicut_Mavoor Road,Calicut, 853 ," 1,193 "," 7,24,83,14,304 ", 188 ," 1,54,50,85,344 ", 231 , 254 ," 3,81,32,46,624 ", 512 , 410 ," 1,85,20,19,136 ", 445 , 39 ," 10,39,35,744 ", 228 
+112311_Ker_Kottakkal,Kottakkal, 896 ," 1,380 "," 2,16,59,48,994 ", 134 ," 49,54,72,032 ", 241 , 121 ," 67,61,75,962 ", 340 , 641 ," 99,43,01,000 ", 799 , 38 ," 9,07,06,462 ", 218 
+111362_Ker_Kannur,Kannur, 727 ," 1,137 "," 2,29,39,38,430 ", 146 ," 59,78,07,840 ", 234 , 93 ," 70,48,38,050 ", 276 , 487 ," 98,48,03,470 ", 622 , null ," 10,86,24,180 ", 206 
+111106_Cochin_Edappally,Cochin," 1,096 "," 1,380 "," 7,01,60,47,038 ", 232 ," 1,60,59,96,293 ", 290 , 224 ," 2,88,06,81,991 ", 354 , 639 ," 2,28,26,97,890 ", 687 , 45 ," 5,78,27,605 ", 205 
+111027_Cochin_MG Road,Cochin, 962 ," 1,180 "," 4,60,54,01,244 ", 190 ," 1,18,33,51,612 ", 243 , 157 ," 1,59,65,13,059 ", 258 , 614 ," 1,77,54,32,095 ", 662 , 50 ," 5,99,58,309 ", 129 
+109435_Ker_Vadakara,Vadakara, 568 , 717 ," 1,51,45,59,291 ", 106 ," 37,92,69,646 ", 135 , 103 ," 48,26,59,562 ", 177 , 358 ," 64,11,42,425 ", 400 , 39 ," 1,17,35,661 ", 112 
+111172_Ker_Irinjalakuda,Irinjalakuda, 354 , 462 ," 32,58,63,054 ", 57 ," 6,99,18,948 ", 83 , 36 ," 8,42,88,798 ", 89 , 261 ," 17,16,55,308 ", 290 , 37 ," 1,17,01,008 ", 83 
+111829_Thrissur_Kuruppam Rd,Thrissur, 594 , 735 ," 59,70,11,940 ", 94 ," 14,01,70,680 ", 127 , 64 ," 15,79,50,540 ", 119 , 436 ," 29,88,90,720 ", 489 , 46 ," 1,15,02,900 ", 43 
+109436_Ker_Perinthalmanna,Perinthalmanna, 516 , 606 ," 47,54,97,459 ", 71 ," 10,40,31,570 ", 91 , 55 ," 10,41,11,367 ", 88 , 389 ," 26,52,94,674 ", 424 , 35 ," 58,66,386 ", 40 
+110765_Ker_Kunnamkulam,Kunnamkulam, 374 , 482 ," 38,60,98,428 ", 59 ," 7,40,76,616 ", 67 , 47 ," 11,31,94,220 ", 103 , 267 ," 17,60,97,376 ", 281 , 47 ," 35,41,036 ", 33 
+111365_Ker_Thriprayar Valapad,Thriprayar, 470 , 596 ," 23,95,99,354 ", 68 ," 5,66,48,850 ", 100 , 35 ," 4,49,73,104 ", 82 , 366 ," 13,60,18,128 ", 413 , 42 ," 57,91,440 ", 32 
+111974_Ker_Kottayam,Kottayam, 598 , 765 ," 49,99,19,980 ", 85 ," 11,72,40,200 ", 128 , 52 ," 10,65,49,240 ", 114 , 461 ," 27,61,30,540 ", 523 , 47 ," 1,07,60,120 ", 17 
+108719_Ker_Manjeri,Manjeri, 31 , 48 ," 68,93,256 ", 4 ," 9,70,349 ", 5 , 4 ," 23,74,398 ", 17 , 22 ," 28,62,045 ", 22 , 117 , -   , 14 
+112571_Cochin_Edappally,Cochin, 741 , 936 ," 41,60,54,400 ", 117 ," 9,87,20,800 ", 159 , 82 ," 10,08,54,200 ", 153 , 542 ," 21,64,79,400 ", 624 , 51 ," 34,86,700 ", 12 
+112372_Ker_Muvattupuzha,Ernakulam, 540 , 702 ," 20,79,11,559 ", 73 ," 5,32,43,091 ", 126 , 29 ," 3,64,35,036 ", 85 , 437 ," 11,75,08,932 ", 490 , 45 ," 7,13,943 ", 11 
+112558_Ker_Perumbavoor,Ernakulam, 449 , 540 ," 8,95,82,130 ", 59 ," 2,50,59,570 ", 86 , 19 ," 97,04,794 ", 46 , 371 ," 5,48,17,765 ", 408 , 28 ," 4,80,000 ", 7 
+112572_Ker_Trivandrum,Thiruvananthapuram, 511 , 645 ," 16,98,72,010 ", 68 ," 3,65,45,025 ", 109 , 36 ," 3,78,56,610 ", 66 , 406 ," 9,53,85,565 ", 469 , 42 ," 11,62,755 ", 3 
+112578_Ker_Trivandrum,Thiruvananthapuram, 307 , 378 ," 4,42,31,400 ", 38 ," 97,41,951 ", 64 , 25 ," 68,89,698 ", 38 , 244 ," 2,75,99,751 ", 276 , 52 ," 2,27,907 ", 3 
+109172_Ker_Thiruvalla,Thiruvalla, 143 , 159 ," 6,16,00,301 ", 34 ," 2,63,63,424 ", 42 , 4 ," 53,35,776 ", 5 , 104 ," 2,72,23,526 ", 109 , 34 , null , 2 
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Insights,"111106_Cochin_Edappally has the highest number of total customers from Jan, 2022 till date",,,,,,,,,,,,,,,
+,"111106_Cochin_Edappally has the highest number of total sales for the city of Cochin from Jan, 2022 till date",,,,,,,,,,,,,,,
+,"111171_Ker_Trivandrum has the highest number of total customers for the city of Thiruvananthapuram  from Jan, 2022",,,,,,,,,,,,,,,
+,"111171_Ker_Trivandrum has the highest number of total sales for the city of Thiruvananthapuram  from Jan, 2022",,,,,,,,,,,,,,,
+,111171_Ker_Trivandrum has the lowest average age in the city of Thiruvananthapuram at 38,,,,,,,,,,,,,,,
+,112578_Ker_Trivandrum has the lowest average age in the city of Thiruvananthapuram  at 52,,,,,,,,,,,,,,,
+,"110759_Thrissur_West Fort has the highest sales and highest customer count from Jan, 2022",,,,,,,,,,,,,,,
+,110759_Thrissur_West Fort has the highest average age in the city of Thrissur  at 49,,,,,,,,,,,,,,,
+,111829_Thrissur_Kuruppam Rd has the highest average age in the city of Thrissur  at 46,,,,,,,,,,,,,,,
+,"Thiruvananthapuram has the highest total sales, and the highest customer count in the state of Kerala, since Jan, 2022",,,,,,,,,,,,,,,
+,"In the state of Kerala, the maximum amount of points redeemed are in the store of 109112_Ker_Palakkad, since Jan, 2022",,,,,,,,,,,,,,,
+,"In the state of Kerala, the maximum amount of coupons redeemed are in the store of 110759_Thrissur_West Fort, since Jan, 2022",,,,,,,,,,,,,,,
